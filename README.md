@@ -2,8 +2,7 @@
 
 ## 🐾 CNN Model for Animal Detection (Animals with Attributes 2)
 
-Deep learning tabanlı bir **Convolutional Neural Network (CNN)** modeli ile  
-**Animals with Attributes 2** veri setindeki hayvan sınıflarını sınıflandırıyorum.
+Deep learning tabanlı bir **Convolutional Neural Network (CNN)** modeli ile **Animals with Attributes 2** veri setindeki hayvan sınıflarını sınıflandırıyorum.
 
 ---
 
