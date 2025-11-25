@@ -1,20 +1,20 @@
 # CNN-Model-Animal-Detection
 
-## Dataset About - Animals with Attributes 2
+## 🐾 CNN Model for Animal Detection (Animals with Attributes 2)
 
+Deep learning tabanlı bir **Convolutional Neural Network (CNN)** modeli ile  
+**Animals with Attributes 2** veri setindeki hayvan sınıflarını sınıflandırıyorum.
 
-Deep learning tabanlı bir Convolutional Neural Network (CNN) modeli ile  
-Animals with Attributes 2 veri setindeki hayvan sınıflarını sınıflandırıyorum.
 ---
-
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-CNNS-blue?style=for-the-badge)
 
-
 ---
+
+
 
 JPEG Images of 50 Animal Classes
 **Disclaimer**: The images in this archive are not from the original "Animals with Attributes (AwA)" dataset.
