@@ -5,7 +5,6 @@
 
 Deep learning tabanlı bir **Convolutional Neural Network (CNN)** modeli ile  
 **Animals with Attributes 2** veri setindeki hayvan sınıflarını sınıflandırıyorum.
-
 ---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -14,9 +13,6 @@ Deep learning tabanlı bir **Convolutional Neural Network (CNN)** modeli ile
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-CNNS-blue?style=for-the-badge)
 
 ---
-
-
-
 
 JPEG Images of 50 Animal Classes
 **Disclaimer**: The images in this archive are not from the original "Animals with Attributes (AwA)" dataset.
